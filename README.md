@@ -1,7 +1,7 @@
-<!-- Remplace VOTRE_LINKEDIN, VOTRE_EMAIL, VOTRE_PORTFOLIO et VOTRE_PSEUDO_BMC -->
+<!-- Replace VOTRE_LINKEDIN, VOTRE_EMAIL, VOTRE_PORTFOLIO and VOTRE_PSEUDO_BMC -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary;Salut%2C+moi+c'est+Hilary;AI+%26+MLOps+Engineer;Ing%C3%A9nieure+IA+%26+MLOps;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary;AI+%26+MLOps+Engineer;Full+Stack+Developer;Learn+by+doing." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,9 +17,7 @@
 
 ---
 
-### 👩‍💻 About me · À propos de moi
-
-**🇬🇧 English**
+### 👩‍💻 About me
 
 - 🎓 Master's in **Artificial Intelligence** at **Université Laval** (graduating 2026)
 - 🏭 **MLOps / AI intern** at **COREM** (Québec)
@@ -29,19 +27,9 @@
 - 📍 Based in **Québec City, Canada**
 - ⚡ Motto: *"Learn by doing."*
 
-**🇫🇷 Français**
-
-- 🎓 Maîtrise en **intelligence artificielle** à l'**Université Laval** (fin 2026)
-- 🏭 Stagiaire **MLOps / IA** chez **COREM** (Québec)
-- 💼 Plus de 6 ans en développement **Full Stack** sur des plateformes **SaaS**
-- 🤖 J'aime construire des **applications LLM**, des **chatbots** et des pipelines ML en production
-- 🌱 J'apprends en ce moment : **MLOps à grande échelle, Kubernetes, LLMOps**
-- 📍 Basée à **Québec, Canada**
-- ⚡ Devise : *« Apprendre en faisant. »*
-
 ---
 
-### 🧠 Tech Stack & Tools · Technologies & outils
+### 🧠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,docker,kubernetes,githubactions,linux&perline=9" /><br/>
@@ -51,19 +39,16 @@
 
 ---
 
-### 📊 GitHub Stats · Statistiques GitHub
+### 📊 Live GitHub Analytics (Auto-updated)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hilaryChoco&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaryChoco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</p>
 
 ---
 
-### 🤝 Let's connect · Restons en contact
+### 🤝 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -73,7 +58,7 @@
 
 ---
 
-### ☕ Support my work · Soutenir mon travail
+### ☕ Support my work
 
 <p align="center">
   <a href="https://buymeacoffee.com/VOTRE_PSEUDO_BMC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
