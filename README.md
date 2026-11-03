@@ -19,22 +19,19 @@
 
 ### 👩‍💻 About me
 
-- 🎓 Master's in **Artificial Intelligence** at **Université Laval** (graduating 2026)
-- 🏭 **MLOps / AI intern** at **COREM** (Québec)
+- 🎓 Master's in **Artificial Intelligence** at **Université Laval**, Canada
 - 💼 6+ years of **Full Stack** development on **SaaS** platforms
 - 🤖 I love building **LLM apps**, **chatbots** and production ML pipelines
 - 🌱 Currently learning: **MLOps at scale, Kubernetes, LLMOps**
-- 📍 Based in **Québec City, Canada**
-- ⚡ Motto: *"Learn by doing."*
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,docker,kubernetes,githubactions,linux&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,cs,dotnet,postgres,mongodb&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,gcp,fastapi,flask,vscode,postman,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,kubernetes,githubactions,linux&perline=15" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,cs,postgres,mongodb&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,azure,fastapi,flask,vscode,postman,figma&perline=7" />
 </p>
 
 ---
