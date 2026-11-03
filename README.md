@@ -40,20 +40,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,azure,gcp,fastapi,flask,vscode,postman,figma&perline=9" />
 </p>
 
----
 
-## 🚀 Projets en vedette
-
-| Projet | Description | Stack |
-|---|---|---|
-| 🌍 [AfroTech Pulse](https://github.com/YTILIKAN/AfroTech-Pulse) | Dashboard de veille IA sur le continent africain + newsletter automatisée publiée chaque lundi | Python · LLM · Automatisation |
-| 💳 [Détection de fraude bancaire](https://github.com/hilaryChoco/Detection-fraude-bancaire) | Classification de transactions frauduleuses sur données déséquilibrées | Python · scikit-learn |
-| 📩 [SMS Spam NLP](https://github.com/hilaryChoco/sms-spam-nlp) | Détection de spam par traitement du langage naturel | Python · NLP |
-| 🧪 [A/B Testing](https://github.com/hilaryChoco/AB-Testing) | Analyse statistique d'expériences A/B | Python · Statistiques |
-| 🚢 [Titanic ML](https://github.com/hilaryChoco/titanic-ml) | Prédiction de survie, pipeline ML complet | Python · scikit-learn |
-| ✅ [Todo App](https://github.com/hilaryChoco/Todo-App) | App full-stack conteneurisée avec Docker | React · Node.js · TypeScript · Docker |
-
----
 
 ## 📊 Statistiques GitHub (mises à jour automatiquement)
 
