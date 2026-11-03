@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilaryChoco&label=Profile%20views&color=7c3aed&style=flat" />
-  <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hilary-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hilarymadjou"><img src="https://img.shields.io/badge/LinkedIn-Hilary-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:VOTRE_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat&logo=googlechrome&logoColor=white" /></a>
 </p>
@@ -51,7 +51,7 @@
 ### 🤝 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hilarymadjou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:VOTRE_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
@@ -61,7 +61,7 @@
 ### ☕ Support my work
 
 <p align="center">
-  <a href="https://buymeacoffee.com/VOTRE_PSEUDO_BMC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+  <a href="https://buymeacoffee.com/hilaryChoco"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
 <p align="center">
