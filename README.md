@@ -1,25 +1,35 @@
-<!-- ===================================================== -->
-<!--  Remplace partout hilaryChoco par ton pseudo GitHub -->
-<!-- ===================================================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Salut%2C+moi+c'est+Hilary;AI+%26+MLOps+Engineer;Full+Stack+Developer;Build.+Learn.+Ship." alt="Typing SVG" />
-</h1>
+<!-- Remplace VOTRE_LINKEDIN, VOTRE_EMAIL, VOTRE_PORTFOLIO et VOTRE_PSEUDO_BMC -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header&text=%E2%9C%A8%20Turning%20data%20into%20products%20%E2%9C%A8&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary;Salut%2C+moi+c'est+Hilary;AI+%26+MLOps+Engineer;Ing%C3%A9nieure+IA+%26+MLOps;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilaryChoco&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=130&section=footer&text=%E2%9C%A8%20Turning%20data%20into%20products%20%E2%9C%A8&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hilaryChoco&label=Profile%20views&color=7c3aed&style=flat" />
   <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Hilary-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:VOTRE_EMAIL"><img src="https://img.shields.io/badge/Email-Me%20contacter-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Voir-2ea44f?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:VOTRE_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👩‍💻 À propos de moi
+### 👩‍💻 About me · À propos de moi
+
+**🇬🇧 English**
+
+- 🎓 Master's in **Artificial Intelligence** at **Université Laval** (graduating 2026)
+- 🏭 **MLOps / AI intern** at **COREM** (Québec)
+- 💼 6+ years of **Full Stack** development on **SaaS** platforms
+- 🤖 I love building **LLM apps**, **chatbots** and production ML pipelines
+- 🌱 Currently learning: **MLOps at scale, Kubernetes, LLMOps**
+- 📍 Based in **Québec City, Canada**
+- ⚡ Motto: *"Learn by doing."*
+
+**🇫🇷 Français**
 
 - 🎓 Maîtrise en **intelligence artificielle** à l'**Université Laval** (fin 2026)
 - 🏭 Stagiaire **MLOps / IA** chez **COREM** (Québec)
@@ -27,12 +37,11 @@
 - 🤖 J'aime construire des **applications LLM**, des **chatbots** et des pipelines ML en production
 - 🌱 J'apprends en ce moment : **MLOps à grande échelle, Kubernetes, LLMOps**
 - 📍 Basée à **Québec, Canada**
-- 🗣️ Langues : **Français, English**
-- ⚡ Devise : *« Learn by doing. »*
+- ⚡ Devise : *« Apprendre en faisant. »*
 
 ---
 
-## 🧠 Tech Stack & Outils
+### 🧠 Tech Stack & Tools · Technologies & outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,docker,kubernetes,githubactions,linux&perline=9" /><br/>
@@ -40,21 +49,21 @@
   <img src="https://skillicons.dev/icons?i=git,github,azure,gcp,fastapi,flask,vscode,postman,figma&perline=9" />
 </p>
 
+---
 
-
-## 📊 Statistiques GitHub (mises à jour automatiquement)
+### 📊 GitHub Stats · Statistiques GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hilaryChoco&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=hilaryChoco&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaryChoco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaryChoco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 </p>
 
 ---
 
-## 🤝 Restons en contact
+### 🤝 Let's connect · Restons en contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -62,6 +71,14 @@
   <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
+---
+
+### ☕ Support my work · Soutenir mon travail
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" />
+  <a href="https://buymeacoffee.com/VOTRE_PSEUDO_BMC"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=90&section=footer" width="100%" />
 </p>
