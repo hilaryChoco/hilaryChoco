@@ -1,11 +1,11 @@
-<!-- Replace VOTRE_LINKEDIN, VOTRE_EMAIL, VOTRE_PORTFOLIO and VOTRE_PSEUDO_BMC -->
+<!-- Replace VOTRE_EMAIL and VOTRE_PORTFOLIO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary+Madjou;AI+%26+MLOps+Engineer;Full+Stack+Developer;Learn+by+doing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Hilary+Madjou;AI+%26+MLOps+Engineer;Full+Stack+Developer;Learn+by+doing." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=130&section=footer&text=%E2%9C%A8%20Turning%20data%20into%20products%20%E2%9C%A8&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=80&section=footer&text=%E2%9C%A8%20Turning%20data%20into%20products%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%" />
 </p>
 
 <p align="center">
@@ -15,8 +15,6 @@
   <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
-
 ### 👩‍💻 About me
 
 - 🎓 Master's in **Artificial Intelligence** at **Université Laval**, Canada
@@ -24,26 +22,17 @@
 - 🤖 I love building **LLM apps**, **chatbots** and production ML pipelines
 - 🌱 Currently learning: **MLOps at scale, Kubernetes, LLMOps**
 
----
-
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,kubernetes,githubactions,linux&perline=15" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,cs,postgres,mongodb&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,fastapi,flask,vscode,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,kubernetes,githubactions,linux,nodejs,ts,js,react,nextjs,cs,postgres,mongodb,git,github,azure,fastapi,flask,vscode,postman,figma&perline=12" />
 </p>
-
----
 
 ### 📊 Live GitHub Analytics (Auto-updated)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hilaryChoco&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" />
 </p>
-
-
----
 
 ### 🤝 Let's connect
 
@@ -53,8 +42,6 @@
   <a href="https://VOTRE_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
-
 ### ☕ Support my work
 
 <p align="center">
@@ -62,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=45&section=footer" width="100%" />
 </p>
