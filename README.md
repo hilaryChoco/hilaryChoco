@@ -1,7 +1,7 @@
 <!-- Replace VOTRE_LINKEDIN, VOTRE_EMAIL, VOTRE_PORTFOLIO and VOTRE_PSEUDO_BMC -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary;AI+%26+MLOps+Engineer;Full+Stack+Developer;Learn+by+doing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hilary+Madjou;AI+%26+MLOps+Engineer;Full+Stack+Developer;Learn+by+doing." alt="Typing SVG" />
 </p>
 
 <p align="center">
